@@ -1,0 +1,22 @@
+@mixin format_ingredient {
+  text-align: center;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.salade {
+  @include format_ingredient;
+  margin-top: 0;
+  background-color: #66ff66 ;
+}
+
+.tomate {
+  @include format_ingredient;
+  background-color: red;
+}
+
+.viande {
+  @include format-ingredient;
+  background-color: darkred;  
+}

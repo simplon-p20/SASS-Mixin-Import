@@ -1,0 +1,23 @@
+.salade {
+  text-align: center;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px 10px 10px 10px;
+  margin-top: 0;
+  background-color: #66ff66; }
+
+.tomate {
+  text-align: center;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: red; }
+
+.viande {
+  text-align: center;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: darkred; }
+
+/*# sourceMappingURL=mixin2.css.map */
